@@ -54,7 +54,7 @@ function App() {
                   </h6>
                 
                   <p className="card-text">Gig: {item.gig}</p>
-                  <p className="card-text">Cost: {item.cost}</p>
+                  <p className="card-text">Cost: ${item.cost}</p>
                  
                 </div>
               </div>
